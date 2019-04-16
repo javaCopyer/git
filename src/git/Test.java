@@ -1,5 +1,6 @@
 package git;
 
 public class Test {
-hub0005
+java0006
+hub0006
 }
