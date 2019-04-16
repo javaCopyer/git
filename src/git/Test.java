@@ -1,6 +1,7 @@
 package git;
 
 public class Test {
+FUCK3
 FUCK2	
 FUCK1
 HEAD0001
