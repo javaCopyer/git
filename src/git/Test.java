@@ -3,6 +3,10 @@ package git;
 public class Test {
 F11	
 F1
+F4	
+F3  
+F2  
+F1
 FUCK5
 FUCK4
 FUCK3
