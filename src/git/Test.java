@@ -1,7 +1,7 @@
 package git;
 
 public class Test {
-<<<<<<< HEAD
+F1
 FUCK5
 FUCK4
 FUCK3
