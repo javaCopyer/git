@@ -3,3 +3,4 @@ feature bb
 feature bbb
 feature B
 FEATURE B
+master B
