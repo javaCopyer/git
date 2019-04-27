@@ -6,5 +6,4 @@ feature aaaaaa
 feature aaaaa
 master A
 feature A
-ssd
-sds
+idea1
