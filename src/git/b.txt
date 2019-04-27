@@ -1,5 +1,4 @@
 feature b
 feature bb
-feature bbbb
 feature bbb
-master B
+feature B
