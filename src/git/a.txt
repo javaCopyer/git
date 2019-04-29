@@ -1,11 +1,27 @@
+<<<<<<< HEAD
 feature a
 feature aa
 feature aaa
 feature aaaa
 feature aaaaaa
 feature aaaaa
-<<<<<<< HEAD
 master A
 feature A
 mas
 ssd
+feature a
+feature aa
+feature aaa
+feature aaaa
+feature aaaaaa
+feature aaaaa
+master A
+feature A
+idea1
+123
+hahah123
+idea haha
+idea hehe
+idea 2222
+idea 1111
+idea 4444
