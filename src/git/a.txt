@@ -4,6 +4,8 @@ feature aaa
 feature aaaa
 feature aaaaaa
 feature aaaaa
+<<<<<<< HEAD
 master A
 feature A
 mas
+ssd
