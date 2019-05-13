@@ -1,6 +1,0 @@
-eclipse a
-idea a
-eclipse aa
-idea aa
-eclipse aaa
-idea aaa
