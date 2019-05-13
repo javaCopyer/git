@@ -1,4 +1,0 @@
-feature b
-feature bb
-feature bbb
-feature B
